@@ -16,6 +16,4 @@ Movinet là một mô hình học sâu được thiết kế đặc biệt cho n
 
 Để sử dụng dự án này, bạn cần cài đặt các thư viện Python cần thiết, sau đó chạy các script huấn luyện và kiểm thử mô hình.
 
-## Giấy phép
 
-Dự án này được phân phối dưới Giấy phép MIT.
